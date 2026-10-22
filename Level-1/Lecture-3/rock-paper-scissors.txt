@@ -1,0 +1,12 @@
+There are going to be two players 
+1) the computer 
+2) the user 
+from the computer and user we are going to take number as input 
+rock paper and scissors are associated with numbers from 1 to 3 
+1. rock 
+2. paper 
+3. scissors 
+the computer will generate a random number between 1 to 3 
+the user will enter a number between 1 to 3 we will default with 1 
+based on the number we will decide the choice using conditional statements 
+next step is to find out who is the winner 
