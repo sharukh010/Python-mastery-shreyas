@@ -1,0 +1,18 @@
+The user will enter month number (1-12)
+you need to match the month number and assign the month value 
+1. January 
+2. Febraury 
+..
+12. December
+
+sample Input: 
+Month Number (1-12): 6
+
+Sample Output: 
+June 
+
+Sample Input: 
+Month Number (1-12): 15
+
+Sample Output: 
+Invalid month number. Month number should be between 1 to 12.
